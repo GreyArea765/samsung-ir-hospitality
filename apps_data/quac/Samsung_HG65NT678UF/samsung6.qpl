@@ -1,0 +1,12 @@
+# Samsung Hospitality Mode 6
+#
+# Utility files are in a hidden directory to prevent display clutter,
+# make sure to copy the .allkeys folder as well.
+#
+# Runs command <mute><1><1><9><power>
+
+.allkeys/mute.ir
+.allkeys/1.ir
+.allkeys/8.ir
+.allkeys/2.ir
+.allkeys/poweron_raw.ir
